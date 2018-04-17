@@ -1,8 +1,8 @@
 - title: Blueprints
   docs:
   - home
-  - traps
-  - customization
+  - traps_and_pickups
+  - etcs
 
 - title: Placing Actors
   docs:
