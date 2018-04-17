@@ -1,5 +1,5 @@
 ---
-title: Font Awesome Icon List
+title: Monster
 permalink: /docs/font-awesome/
 ---
 

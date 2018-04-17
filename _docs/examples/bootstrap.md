@@ -1,5 +1,5 @@
 ---
-title: Bootstrap Features
+title: Wall & Edge
 permalink: /docs/bootstrap/
 ---
 

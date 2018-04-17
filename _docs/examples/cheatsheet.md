@@ -1,5 +1,5 @@
 ---
-title: Markdown Cheatsheet
+title: Hero(Player Character)
 permalink: /docs/cheatsheet/
 ---
 
