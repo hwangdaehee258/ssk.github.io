@@ -11,6 +11,10 @@ permalink: /docs/themes/
 
 위에서 아래로 내려가는 움직임이 있고 닿았을 때 데미지를 줍니다.
 
+### MoveFloorBP
+
+움직이는 바닥입니다.
+
 ### GoldItemBP
 
 이것은 픽업 아이템입니다. 골드를 줍니다.
