@@ -6,6 +6,6 @@
 
 - title: Placing Actors
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - hero
+  - monster
+  - wall_and_edge

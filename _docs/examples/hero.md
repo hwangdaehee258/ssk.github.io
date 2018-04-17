@@ -1,6 +1,6 @@
 ---
 title: Hero(Player Character)
-permalink: /docs/cheatsheet/
+permalink: /docs/hero/
 ---
 
 From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

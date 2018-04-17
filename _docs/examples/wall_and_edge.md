@@ -1,6 +1,6 @@
 ---
 title: Wall & Edge
-permalink: /docs/bootstrap/
+permalink: /docs/wall_and_edge/
 ---
 
 

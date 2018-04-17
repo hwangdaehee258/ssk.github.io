@@ -1,6 +1,6 @@
 ---
 title: Monster
-permalink: /docs/font-awesome/
+permalink: /docs/monster/
 ---
 
 
