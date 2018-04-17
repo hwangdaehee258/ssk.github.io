@@ -1,7 +1,6 @@
 ---
 title: Characters
-permalink: /docs/home/
-redirect_from: /docs/index.html
+permalink: /docs/characters/
 ---
 
 ## Character 상속 구조
