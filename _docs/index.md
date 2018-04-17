@@ -8,9 +8,7 @@ redirect_from: /docs/index.html
 
 BaseHeroBP는 BaseCharBP를 상속 받았습니다. 그렇기 때문에 기본적인 캐릭터 기능을 가지고 있고 추가로 Hero(Player Character) 기능을 가지고 있습니다.
 이 블루프린트는 기본 좌우 이동, 멀티 점프, 구르기, 콤보 공격, 아이템 줍기, 피격 기능등을 가지고 있습니다.
-
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published on the webpage instantly.
+ 그래서 새로운 영웅 캐릭터를 만들때 이 블루프린트를 상속 받아서 만들 수 있습니다. 샘플로 CouchHeroBP가 있습니다.
 
 1. Just [download the source](https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip) into your repo under `docs` folder.
 2. Edit site settings in  `_config.yml` file according to your project. !!! `baseurl` should be your website's relative URI like `/my-proj` !!!
