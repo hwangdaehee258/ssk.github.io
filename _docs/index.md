@@ -6,7 +6,7 @@ redirect_from: /docs/index.html
 
 ## Character 상속 구조
 
-https://hwangdaehee258.github.io/ssk.github.io/img/relation ship res 5.png
+![logo](https://hwangdaehee258.github.io/ssk.github.io/img/relation ship res 5.png "blueprint relationship")
 
 ## BaseHeroBP
 
