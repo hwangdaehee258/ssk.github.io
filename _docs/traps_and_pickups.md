@@ -1,6 +1,6 @@
 ---
 title: Traps & Pickups
-permalink: /docs/themes/
+permalink: /docs/traps_and_pickups/
 ---
 
 ### TrapABP

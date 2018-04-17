@@ -1,6 +1,6 @@
 ---
 title: Etcs
-permalink: /docs/customization/
+permalink: /docs/etcs/
 ---
 
 ### LadderBP
