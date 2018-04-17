@@ -19,10 +19,10 @@ BaseHeroBP는 BaseCharBP를 상속 받았습니다. 그렇기 때문에 기본�
 
 기본적으로 제공해주는 영웅 캐릭터 입니다. 이 캐릭터는 BaseHeroBP를 상속 받아서 생성된 블루프린트 입니다. 스켈레톤 메시와 애니메이션, 무기등을 바꿔주거나 추가해 줘서 새로운 Hero(Player Character)를 만들 수 있습니다.
 
-## Monsters
+## Monsters(AI)
 ### BaseMonsterBP
 
-BaseMonsterBP는 BaseCharBP를 상속 받았습니다. 그렇기 때문에 기본적인 캐릭터를 가지고 있고 추가로 기본적인 Monater(AI) 기능을 가지고 있습니다. 플레이어가 가까이 왔을 때 쫒아가거나 공격하는 기능을 가지고 있습니다.
+BaseMonsterBP는 BaseCharBP를 상속 받았습니다. 그렇기 때문에 기본적인 캐릭터를 가지고 있고 추가로 기본적인 Monater(AI) 기능을 가지고 있습니다. 플레이어가 가까이 왔는지 감지해서 쫒아가거나 공격하는 기능을 가지고 있습니다.
 완전 새로운 타입의 몬스터를 만들고 싶으면 이것을 상속 받아서 만들 수 있습니다.
 
 ### HMoveMonsterBP
