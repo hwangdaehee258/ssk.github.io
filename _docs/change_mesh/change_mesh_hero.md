@@ -101,3 +101,24 @@ In the KhaimeraHeroBP blueprint. change Anim Montages show below.
 
 ![001 open animation blueprint and double-click idle_sword to open](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/001 open animation blueprint and double-click idle_sword to open.png "001 open animation blueprint and double-click idle_sword to open")
 
+![002 search for idle nonadditive and drag and drop into graph](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/002 search for idle nonadditive and drag and drop into graph.png "002 search for idle nonadditive and drag and drop into graph")
+
+![003 plug in result and delete old idle animation](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/003 plug in result and delete old idle animation.png "003 plug in result and delete old idle animation")
+
+![004 plug in result and delete old idle animation](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/004 plug in result and delete old idle animation.png "004 plug in result and delete old idle animation")
+
+![005 search for attack montage](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/005 search for attack montage.png "005 search for attack montage")
+
+![006 changing a new attack1 animation](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/006 changing a new attack1 animation.png "006 changing a new attack1 animation")
+
+![007 changing time of event](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/007 changing time of event.png "007 changing time of event")
+
+![008 search for body mat and creating body mat instance](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/008 search for body mat and creating body mat instance.png "008 search for body mat and creating body mat instance")
+
+![009 changing damage parameter](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/009 changing damage parameter.png "009 changing damage parameter")
+
+![010 changing a new body material](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/010 changing a new body material.png "010 changing a new body material")
+
+![011 changing a new damaged material](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/011 changing a new damaged material.png "011 changing a new damaged material")
+
+
