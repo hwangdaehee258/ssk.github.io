@@ -61,21 +61,39 @@ In the KhaimeraHeroBP, select Mesh. click Skeletal Mesh drop down button. and th
 
 ![014 change mesh to Khaimera](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/014 change mesh to Khaimera.png "014 change mesh to Khaimera")
 
+In the Content Browser, under 3DSideScrollerKit/BaseCharacters/Hero, right-click PaladinAnimBP to click **Duplicate Anim Blueprints and Retarget**.
+
 ![015 creating a new animation blueprint](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/015 creating a new animation blueprint.png "015 creating a new animation blueprint")
+
+you will see **Select Skeleton** window shown below. select Khaimera_Skeleton and then Type **Paladin** in the Relpace box and **Khaimera** in the with box. click **Retarget** button.
 
 ![016 retargeting to khaimera](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/016 retargeting to khaimera.png "016 retargeting to khaimera")
 
+Click **Save All** button.
+
 ![017 save all files created](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/017 save all files created.png "017 save all files created")
+
+right-click on **3DSideScrollerKit** to create a new folder. Name a new folder **Khaimera**.
 
 ![018 creating a new folder](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/018 creating a new folder.png "018 creating a new folder")
 
+select animation files and then move to **Khaimera** folder.
+
 ![019 move new files](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/019 move new files.png "019 move new files")
+
+In the KhaimeraHeroBP blueprint, select **Mesh(Inherited)**, click **Anim Class** drop down button to select **KhaimeraAnimBP**.
 
 ![020 select new animation blueprint created](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/020 select new animation blueprint created.png "020 select new animation blueprint created")
 
+In the Content Browser, under **3DSideScrollerKit/BaseCharacters/Hero/AnimMontage**, select all anim montage files and then right-click to **Duplicate Anim Assets and Retarget**.
+
 ![021 creating a animation montage](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/021 creating a animation montage.png "021 creating a animation montage")
 
+select **Khaimera_Skeleton**, type paladin in Replace box and khaimera in with box and then click **Change...** button to select **/Game/3DSideScrollerKit/Khaimera** path. click **Retarget** button.
+
 ![022 retageting animation montage](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/022 retageting animation montage.png "022 retageting animation montage")
+
+In the KhaimeraHeroBP blueprint. change Anim Montages show below.
 
 ![023 chainging animation montage in blueprints1](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/023 chainging animation montage in blueprints1.png "023 chainging animation montage in blueprints1")
 
