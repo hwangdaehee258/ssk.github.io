@@ -3,55 +3,53 @@ title: Hero(Player Character)
 permalink: /docs/change_mesh_hero/
 ---
 
-### Placing a Player Character
+### Changing character's mesh
 
-We are going to place a player character
+![001 preview](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/001 preview.png "001 preview")
 
+![002 search for a new character(Khaimera)](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/002 search for a new character_Khaimera.png "002 search for a new character(Khaimera)")
 
+![003 add to project](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/003 add to project.png "003 add to project")
 
-To place a player character, create a new Level.
+![004 search for BaseHeroBP and select BaseHeroBP](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/004 search for BaseHeroBP and select BaseHeroBP.png "004 search for BaseHeroBP and select BaseHeroBP")
 
-![001 Creating a New Level](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/001 Creating a New Level.png "001 Creating a New Level")
+![005 right-click BaseHeroBP and Click Create Child Blueprint Class Button](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/005 right-click BaseHeroBP and Click Create Child Blueprint Class Button.png "005 right-click BaseHeroBP and Click Create Child Blueprint Class Button")
 
+![006 change name and double click to open](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/006 change name and double click to open.png "006 change name and double click to open")
 
-In the Content Browser, under 3DSideScrollerKit/Blueprints/Characters, select the CouchHeroBP.
+![007 search for skeleton and double-click skeleton(khaimera)](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/007 search for skeleton and double-click skeleton_khaimera.png "007 search for skeleton and double-click skeleton(khaimera)")
 
-![002 Searching CouchHeroBP](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/002 Searching CouchHeroBP.png "002 Searching CouchHeroBP")
+![008 change option](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/008 change option.png "008 change option")
 
+![009 change option 2](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/009 change option 2.png "009 change option 2")
 
-Drag the CouchHeroBP into the level.
+![010 change option 3](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/010 change option 3.png "010 change option 3")
 
-![003 drag and drop to level](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/003 drag and drop to level.png "003 drag and drop to level")
+![011-1 select retargetmanager and change humanoid rig](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/011-1 select retargetmanager and change humanoid rig.png "011-1 select retargetmanager and change humanoid rig")
 
+![011-2 click auto mapping button](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/011-2 click auto mapping button.png "011-2 click auto mapping button")
 
-Rotate the CouchHeroBP 90 degrees.
+![012 save options](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/012 save options.png "012 save options")
 
-![004 changing character's rotation in details panel](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/004 changing character's rotation in details panel.png "004 changing character's rotation in details panel")
+![014 change mesh to Khaimera](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/014 change mesh to Khaimera.png "014 change mesh to Khaimera")
 
+![015 creating a new animation blueprint](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/015 creating a new animation blueprint.png "015 creating a new animation blueprint")
 
-In the Details panel, Change X location value to zero.
+![016 retargeting to khaimera](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/016 retargeting to khaimera.png "016 retargeting to khaimera")
 
-![005 changing character's location's x value to zero](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/005 changing character's location's x value to zero.png "005 changing character's location's x value to zero")
+![017 save all files created](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/017 save all files created.png "017 save all files created")
 
+![018 creating a new folder](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/018 creating a new folder.png "018 creating a new folder")
 
-In the Content Browser, under 3DSideScrollerKit/Blueprints, select the FollowCamBP.
+![019 move new files](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/019 move new files.png "019 move new files")
 
-![006 go to folder and select follow cam in content browser](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/006 go to folder and select follow cam in content browser.png "006 go to folder and select follow cam in content browser")
+![020 select new animation blueprint created](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/020 select new animation blueprint created.png "020 select new animation blueprint created")
 
+![021 creating a animation montage](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/021 creating a animation montage.png "021 creating a animation montage")
 
-Drag the FollowCamBP into the level.
+![022 retageting animation montage](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/022 retageting animation montage.png "022 retageting animation montage")
 
-![007 drag and drop FollowCamBP to level](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/007 drag and drop FollowCamBP to level.png "007 drag and drop FollowCamBP to level")
+![023 chainging animation montage in blueprints1](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/023 chainging animation montage in blueprints1.png "023 chainging animation montage in blueprints1")
 
-
-You can preview level. Change camera's location.
-
-![008 changing camera's position](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/008 changing camera's position.png "008 changing camera's position")
-
-
-Let's play!!
-
-![009 let's play!!](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/009 let's play!!.png "009 let's play!!")
-
-
+![023 chainging animation montage in blueprints2](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/023 chainging animation montage in blueprints2.png "023 chainging animation montage in blueprints2")
 
