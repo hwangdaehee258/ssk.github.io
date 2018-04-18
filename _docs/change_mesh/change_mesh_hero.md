@@ -99,3 +99,5 @@ In the KhaimeraHeroBP blueprint. change Anim Montages show below.
 
 ![023 chainging animation montage in blueprints2](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/023 chainging animation montage in blueprints2.png "023 chainging animation montage in blueprints2")
 
+![001 open animation blueprint and double-click idle_sword to open](https://hwangdaehee258.github.io/ssk.github.io/img/changing hero to new animations/001 open animation blueprint and double-click idle_sword to open.png "001 open animation blueprint and double-click idle_sword to open")
+
