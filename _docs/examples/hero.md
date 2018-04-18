@@ -3,9 +3,9 @@ title: Hero(Player Character)
 permalink: /docs/hero/
 ---
 
-### Placing a Player Character
+#### Placing a Player Character
 
-### **Placing a Player Character**
+#### **Placing a Player Character**
 
 ![001 Creating a New Level](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/001 Creating a New Level.png "001 Creating a New Level")
 
