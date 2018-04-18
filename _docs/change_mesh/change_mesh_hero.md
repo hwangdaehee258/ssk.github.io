@@ -5,13 +5,23 @@ permalink: /docs/change_mesh_hero/
 
 ### Changing character's mesh
 
+We are going to change character's mesh shown below.
+
 ![001 preview](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/001 preview.png "001 preview")
+
+In the launch browser, click Marketplace button. and then type **Khaimera** in search box. you will see Khaimera asset. select **Paragon: Khaimera**.
 
 ![002 search for a new character(Khaimera)](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/002 search for a new character_Khaimera.png "002 search for a new character(Khaimera)")
 
+Click **Add To Project** Button to download.
+
 ![003 add to project](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/003 add to project.png "003 add to project")
 
+In the Content Browser, under **3DSideScrollerKit/Blueprints/Characters**, select **BaseHeroBP**.
+
 ![004 search for BaseHeroBP and select BaseHeroBP](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/004 search for BaseHeroBP and select BaseHeroBP.png "004 search for BaseHeroBP and select BaseHeroBP")
+
+right-click on **BaseHeroBP**, and then click **Create Child Blueprint Class**
 
 ![005 right-click BaseHeroBP and Click Create Child Blueprint Class Button](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/005 right-click BaseHeroBP and Click Create Child Blueprint Class Button.png "005 right-click BaseHeroBP and Click Create Child Blueprint Class Button")
 
