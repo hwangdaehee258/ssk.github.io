@@ -29,21 +29,35 @@ Name this blueprint **KhaimeraHeroBP**.
 
 ![006 change name and double click to open](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/006 change name and double click to open.png "006 change name and double click to open")
 
-In the Content Browser, 
+In the Content Browser, under ParagonKhaimera/Characters/Heroes/Khaimera/Meshes, double-click **Khaimera_Skeleton** to open.
 
 ![007 search for skeleton and double-click skeleton(khaimera)](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/007 search for skeleton and double-click skeleton_khaimera.png "007 search for skeleton and double-click skeleton(khaimera)")
 
+Click **Options** Button. Click **Show Retargeting Options** Check Button.
+
 ![008 change option](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/008 change option.png "008 change option")
+
+Click **Animation** Button shown below. and then select **Recursively Set Translation Retargeting Animation**.
 
 ![009 change option 2](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/009 change option 2.png "009 change option 2")
 
+Click **Animation** Button show below. and then select **Animation Scaled**.
+
 ![010 change option 3](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/010 change option 3.png "010 change option 3")
+
+Click **Retarget Manager** Button. and then Click Select Rig drop down button. select **Select Humanoid Rig**.
 
 ![011-1 select retargetmanager and change humanoid rig](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/011-1 select retargetmanager and change humanoid rig.png "011-1 select retargetmanager and change humanoid rig")
 
+Click **Auto Mapping** Button.
+
 ![011-2 click auto mapping button](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/011-2 click auto mapping button.png "011-2 click auto mapping button")
 
+Click **Save** Button.
+
 ![012 save options](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/012 save options.png "012 save options")
+
+In the KhaimeraHeroBP, select Mesh. click Skeletal Mesh drop down button. and then select **Khaimera_WhiteTiger**.
 
 ![014 change mesh to Khaimera](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/014 change mesh to Khaimera.png "014 change mesh to Khaimera")
 
