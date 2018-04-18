@@ -29,7 +29,7 @@ Name this blueprint **KhaimeraHeroBP**.
 
 ![006 change name and double click to open](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/006 change name and double click to open.png "006 change name and double click to open")
 
-
+In the Content Browser, 
 
 ![007 search for skeleton and double-click skeleton(khaimera)](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/007 search for skeleton and double-click skeleton_khaimera.png "007 search for skeleton and double-click skeleton(khaimera)")
 
