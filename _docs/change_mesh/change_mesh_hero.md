@@ -25,7 +25,11 @@ right-click on **BaseHeroBP**, and then click **Create Child Blueprint Class**
 
 ![005 right-click BaseHeroBP and Click Create Child Blueprint Class Button](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/005 right-click BaseHeroBP and Click Create Child Blueprint Class Button.png "005 right-click BaseHeroBP and Click Create Child Blueprint Class Button")
 
+Name this blueprint **KhaimeraHeroBP**.
+
 ![006 change name and double click to open](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/006 change name and double click to open.png "006 change name and double click to open")
+
+
 
 ![007 search for skeleton and double-click skeleton(khaimera)](https://hwangdaehee258.github.io/ssk.github.io/img/changing mesh and animations/007 search for skeleton and double-click skeleton_khaimera.png "007 search for skeleton and double-click skeleton(khaimera)")
 
