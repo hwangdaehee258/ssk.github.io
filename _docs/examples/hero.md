@@ -3,13 +3,19 @@ title: Hero(Player Character)
 permalink: /docs/hero/
 ---
 
-#### Placing a Player Character
+### Placing a Player Character
 
-#### **Placing a Player Character**
+We are going to place a player character
+
+To place a player character, create a new Level.
 
 ![001 Creating a New Level](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/001 Creating a New Level.png "001 Creating a New Level")
 
+In the Content Browser, under Game/Blueprints, select the CouchHeroBP.
+
 ![002 Searching CouchHeroBP](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/002 Searching CouchHeroBP.png "002 Searching CouchHeroBP")
+
+drag the CouchHeroBP into the level.
 
 ![003 drag and drop to level](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/003 drag and drop to level.png "003 drag and drop to level")
 
