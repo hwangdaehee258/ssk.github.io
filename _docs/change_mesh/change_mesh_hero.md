@@ -1,6 +1,6 @@
 ---
 title: Hero(Player Character)
-permalink: /docs/hero/
+permalink: /docs/change_mesh_hero/
 ---
 
 ### Placing a Player Character

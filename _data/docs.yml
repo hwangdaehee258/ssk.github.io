@@ -3,9 +3,14 @@
   - characters
   - traps_and_pickups
   - etcs
-
+  
 - title: Placing Actors
   docs:
-  - hero
-  - monster
-  - wall_and_edge
+  - place_actor_hero
+  - place_actor_monster
+  - place_actor_wall_and_edge
+
+- title: Changing Character's Mesh
+  docs:
+  - change_mesh_hero
+  - change_mesh_monster
