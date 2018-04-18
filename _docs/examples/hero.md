@@ -8,6 +8,7 @@ permalink: /docs/hero/
 We are going to place a player character
 
 
+
 To place a player character, create a new Level.
 
 ![001 Creating a New Level](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/001 Creating a New Level.png "001 Creating a New Level")
@@ -43,8 +44,7 @@ Drag the FollowCamBP into the level.
 ![007 drag and drop FollowCamBP to level](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/007 drag and drop FollowCamBP to level.png "007 drag and drop FollowCamBP to level")
 
 
-1. You can preview level.
-2. Change camera's location.
+You can preview level. Change camera's location.
 
 ![008 changing camera's position](https://hwangdaehee258.github.io/ssk.github.io/img/placing the player character/008 changing camera's position.png "008 changing camera's position")
 
