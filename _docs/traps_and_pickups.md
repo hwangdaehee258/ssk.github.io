@@ -5,28 +5,30 @@ permalink: /docs/traps_and_pickups/
 
 ### TrapABP
 
-이것을 닿았을 때 데미지를 줍니다.
+When Player Character overlap the TrapABP, it deals damage.
 
 ### Trap2BP
 
-위에서 아래로 내려가는 움직임이 있고 닿았을 때 데미지를 줍니다.
+
+Trap2BP moves down once every 5 seconds to damage the character.
 
 ### MoveFloorBP
 
-움직이는 바닥입니다.
+Moving floor
 
 ### GoldItemBP
 
-이것은 픽업 아이템입니다. 골드를 줍니다.
+It is pickup item. it gives gold to player.
 
 ### HeartItemBP
 
-이것은 픽업 아이템입니다. HP를 회복 시켜 줍니다.
+It is pickup item. it recover health to player.
 
 ### ItemBarrelBP
 
-파괴 시키면 아이템이 한개 나옵니다.
+When Player Character hits the ItemBarrelBP, the pickup item spawns in the ItemBarrelBP.
 
 ### TresureBP
 
 열면 아이템이 여러개 나옵니다.
+If Player Character open the TresureBP, several pickup items spawn in the TresureBP.

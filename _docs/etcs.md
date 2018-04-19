@@ -5,12 +5,12 @@ permalink: /docs/etcs/
 
 ### LadderBP
 
-사다리입니다.
+Player Character can climb the LadderBP.
 
 ### RideWallBP
 
-플레이어 캐릭터가 벽에 올라 탈 수 있게해주고 반대편으로 점프할 수 있게 해줍니다.
+RideWallBP allows the Player Character to climb on the wall and jump to the other side.
 
 ### ClimbEgdeBP
 
- 플레이어 캐릭터가 벽에 메달릴 수 있게 해줍니다.
+ClimbEgdeBP allows the Player Character to hang on the edge of wall.
