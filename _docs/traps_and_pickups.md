@@ -30,5 +30,4 @@ When Player Character hits the ItemBarrelBP, the pickup item spawns in the ItemB
 
 ### TresureBP
 
-열면 아이템이 여러개 나옵니다.
 If Player Character open the TresureBP, several pickup items spawn in the TresureBP.
