@@ -3,7 +3,7 @@ title: Characters
 permalink: /docs/characters/
 ---
 
-## Character 상속 구조
+## Character Inheritance Relationship
 
 ![logo](https://hwangdaehee258.github.io/ssk.github.io/img/relation ship res 5.png "blueprint relationship")
 
